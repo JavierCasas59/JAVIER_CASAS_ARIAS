@@ -75,3 +75,4 @@ Apartado 4
 
 
 4. Se adjunta la imagen 'SOLIDITY.png' donde se muestra la realización de todas las actividades de Solidity en la plataforma CryptoZombies.
+<img width="1896" height="924" alt="image" src="https://github.com/user-attachments/assets/c9eceae6-ae27-4e9c-9ba9-3070938a2b30" />
