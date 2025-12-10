@@ -12,5 +12,6 @@ Imágenes:
 
 
 - GIT REMOTE.png
+<img width="1910" height="879" alt="image" src="https://github.com/user-attachments/assets/f234bf46-c7f5-4369-b509-43073d0a3dfa" />
 
 
