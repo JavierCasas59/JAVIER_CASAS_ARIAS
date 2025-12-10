@@ -8,6 +8,9 @@ A continuación se muestran dos capturas de pantalla donde se evidencia que se h
 
 Imágenes:
 - GIT PRINCIPAL.png
+<img width="1892" height="989" alt="image" src="https://github.com/user-attachments/assets/e18e0e92-dc8a-4521-ae98-a6c3f6049da8" />
+
+
 - GIT REMOTE.png
 
 
